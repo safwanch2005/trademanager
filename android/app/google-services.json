@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241389171586",
+    "project_id": "trade-manager-3784c",
+    "storage_bucket": "trade-manager-3784c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241389171586:android:5e7680acb921e7b2ef559b",
+        "android_client_info": {
+          "package_name": "com.example.trademanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoZ1mIMhtghnqmaTeJrnPOQycNIhpO0do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
